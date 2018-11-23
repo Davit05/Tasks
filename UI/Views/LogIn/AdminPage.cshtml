@@ -1,0 +1,23 @@
+﻿@model IEnumerable<AdminPageModel>
+
+<h3 class="text-center">Products</h3>
+<table class="table-bordered col-md-12 text-center">
+    <thead class="alert-danger align-self-stretch ">
+        <tr><td>Mark</td><td>Model</td></tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    <a asp-action="ProductDetails" asp-controller="Admin"
+                        asp-route-productId="@item.ProductID" asp-route-UserID="@item.UserID">@item.Mark</a>
+                </td>
+                <td>
+                    <a asp-action="ProductDetails" asp-controller="Admin"
+                       asp-route-productId="@item.ProductID" asp-route-UserID="@item.UserID">@item.CarModel</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

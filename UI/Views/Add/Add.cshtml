@@ -1,0 +1,41 @@
+﻿@model Car
+<div class="container">
+    <form asp-action="Add" asp-controller="Add" method="post">
+        <div class="row form-group">
+            <div class="col-md-auto">
+                <span class="bg-warning" asp-validation-for="Mark"></span>
+                <div>
+                    <label asp-for="Mark"></label>
+                    <input class="form-control" asp-for="Mark" />
+                </div>
+                <span class="bg-warning" asp-validation-for="CarModel"></span>
+                <div>
+                    <label asp-for="CarModel"></label>
+                    <input class="form-control" asp-for="CarModel" />
+
+                </div>
+                <span class="bg-warning" asp-validation-for="Year"></span>
+                <div>
+                    <label asp-for="Year"></label>
+                    <input class="form-control" asp-for="Year" />
+                </div> 
+                <span class="bg-warning" asp-validation-for="Vin"></span>
+                <div>
+                    <label asp-for="Vin"></label>
+                    <input class="form-control" asp-for="Vin" />
+
+                </div>
+            </div>
+        </div>
+        @{
+            Model.DateAdded = DateTime.Now;
+            if (Model.UserID == null)
+            {
+                Model.UserID = (int)ViewBag.UserID;
+            }
+            @Html.HiddenFor(car => car.UserID);
+            @Html.HiddenFor(car => car.DateAdded);
+        }
+        <input type="submit" class="btn btn-primary btn-block col-md-1" value="Add">
+    </form>
+</div>

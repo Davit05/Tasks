@@ -1,0 +1,64 @@
+D:\C# Learning\Proper projects at home\FincaTaskCore\DAL\UI\bin\Debug\netcoreapp2.1\UI.deps.json
+D:\C# Learning\Proper projects at home\FincaTaskCore\DAL\UI\bin\Debug\netcoreapp2.1\UI.runtimeconfig.json
+D:\C# Learning\Proper projects at home\FincaTaskCore\DAL\UI\bin\Debug\netcoreapp2.1\UI.runtimeconfig.dev.json
+D:\C# Learning\Proper projects at home\FincaTaskCore\DAL\UI\bin\Debug\netcoreapp2.1\UI.dll
+D:\C# Learning\Proper projects at home\FincaTaskCore\DAL\UI\obj\Debug\netcoreapp2.1\UI.csprojAssemblyReference.cache
+D:\C# Learning\Proper projects at home\FincaTaskCore\DAL\UI\obj\Debug\netcoreapp2.1\UI.csproj.CoreCompileInputs.cache
+D:\C# Learning\Proper projects at home\FincaTaskCore\DAL\UI\obj\Debug\netcoreapp2.1\UI.RazorAssemblyInfo.cache
+D:\C# Learning\Proper projects at home\FincaTaskCore\DAL\UI\obj\Debug\netcoreapp2.1\UI.RazorAssemblyInfo.cs
+D:\C# Learning\Proper projects at home\FincaTaskCore\DAL\UI\obj\Debug\netcoreapp2.1\UI.AssemblyInfoInputs.cache
+D:\C# Learning\Proper projects at home\FincaTaskCore\DAL\UI\obj\Debug\netcoreapp2.1\UI.AssemblyInfo.cs
+D:\C# Learning\Proper projects at home\FincaTaskCore\DAL\UI\obj\Debug\netcoreapp2.1\UI.RazorTargetAssemblyInfo.cache
+D:\C# Learning\Proper projects at home\FincaTaskCore\DAL\UI\bin\Debug\netcoreapp2.1\UI.pdb
+D:\C# Learning\Proper projects at home\FincaTaskCore\DAL\UI\bin\Debug\netcoreapp2.1\UI.Views.dll
+D:\C# Learning\Proper projects at home\FincaTaskCore\DAL\UI\bin\Debug\netcoreapp2.1\UI.Views.pdb
+D:\C# Learning\Proper projects at home\FincaTaskCore\DAL\UI\obj\Debug\netcoreapp2.1\UI.TagHelpers.input.cache
+D:\C# Learning\Proper projects at home\FincaTaskCore\DAL\UI\obj\Debug\netcoreapp2.1\UI.TagHelpers.output.cache
+D:\C# Learning\Proper projects at home\FincaTaskCore\DAL\UI\obj\Debug\netcoreapp2.1\UI.RazorCoreGenerate.cache
+D:\C# Learning\Proper projects at home\FincaTaskCore\DAL\UI\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\C# Learning\Proper projects at home\FincaTaskCore\DAL\UI\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\C# Learning\Proper projects at home\FincaTaskCore\DAL\UI\obj\Debug\netcoreapp2.1\UI.RazorTargetAssemblyInfo.cs
+D:\C# Learning\Proper projects at home\FincaTaskCore\DAL\UI\obj\Debug\netcoreapp2.1\UI.Views.pdb
+D:\C# Learning\Proper projects at home\FincaTaskCore\DAL\UI\obj\Debug\netcoreapp2.1\UI.dll
+D:\C# Learning\Proper projects at home\FincaTaskCore\DAL\UI\obj\Debug\netcoreapp2.1\UI.pdb
+D:\C# Learning\Proper projects at home\FincaTaskCore\DAL\UI\obj\Debug\netcoreapp2.1\UI.csproj.CopyComplete
+D:\C# Learning\Proper projects at home\FincaTaskCore\DAL\UI\obj\Debug\netcoreapp2.1\Razor\Views\LogIn\LogIn.g.cshtml.cs
+D:\C# Learning\Proper projects at home\FincaTaskCore\DAL\UI\bin\Debug\netcoreapp2.1\DAL.dll
+D:\C# Learning\Proper projects at home\FincaTaskCore\DAL\UI\bin\Debug\netcoreapp2.1\DAL.pdb
+D:\C# Learning\Proper projects at home\FincaTaskCore\DAL\UI\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\C# Learning\Proper projects at home\FincaTaskCore\DAL\UI\obj\Debug\netcoreapp2.1\Razor\Views\Add\Add.g.cshtml.cs
+D:\C# Learning\Proper projects at home\FincaTaskCore\DAL\UI\obj\Debug\netcoreapp2.1\Razor\Views\Add\Success.g.cshtml.cs
+D:\C# Learning\Proper projects at home\FincaTaskCore\DAL\UI\obj\Debug\netcoreapp2.1\Razor\Views\LogIn\AdminPage.g.cshtml.cs
+D:\C# Learning\Proper projects at home\FincaTaskCore\DAL\UI\obj\Debug\netcoreapp2.1\Razor\Views\Admin\ProductDetails.g.cshtml.cs
+D:\C# Learning\Proper projects at home\FincaTaskCore\Finca Task\UI\bin\Debug\netcoreapp2.1\UI.deps.json
+D:\C# Learning\Proper projects at home\FincaTaskCore\Finca Task\UI\bin\Debug\netcoreapp2.1\UI.runtimeconfig.json
+D:\C# Learning\Proper projects at home\FincaTaskCore\Finca Task\UI\bin\Debug\netcoreapp2.1\UI.runtimeconfig.dev.json
+D:\C# Learning\Proper projects at home\FincaTaskCore\Finca Task\UI\bin\Debug\netcoreapp2.1\UI.dll
+D:\C# Learning\Proper projects at home\FincaTaskCore\Finca Task\UI\bin\Debug\netcoreapp2.1\UI.pdb
+D:\C# Learning\Proper projects at home\FincaTaskCore\Finca Task\UI\bin\Debug\netcoreapp2.1\UI.Views.dll
+D:\C# Learning\Proper projects at home\FincaTaskCore\Finca Task\UI\bin\Debug\netcoreapp2.1\UI.Views.pdb
+D:\C# Learning\Proper projects at home\FincaTaskCore\Finca Task\UI\bin\Debug\netcoreapp2.1\DAL.dll
+D:\C# Learning\Proper projects at home\FincaTaskCore\Finca Task\UI\bin\Debug\netcoreapp2.1\DAL.pdb
+D:\C# Learning\Proper projects at home\FincaTaskCore\Finca Task\UI\obj\Debug\netcoreapp2.1\UI.csprojAssemblyReference.cache
+D:\C# Learning\Proper projects at home\FincaTaskCore\Finca Task\UI\obj\Debug\netcoreapp2.1\UI.csproj.CoreCompileInputs.cache
+D:\C# Learning\Proper projects at home\FincaTaskCore\Finca Task\UI\obj\Debug\netcoreapp2.1\UI.RazorAssemblyInfo.cache
+D:\C# Learning\Proper projects at home\FincaTaskCore\Finca Task\UI\obj\Debug\netcoreapp2.1\UI.RazorAssemblyInfo.cs
+D:\C# Learning\Proper projects at home\FincaTaskCore\Finca Task\UI\obj\Debug\netcoreapp2.1\UI.AssemblyInfoInputs.cache
+D:\C# Learning\Proper projects at home\FincaTaskCore\Finca Task\UI\obj\Debug\netcoreapp2.1\UI.AssemblyInfo.cs
+D:\C# Learning\Proper projects at home\FincaTaskCore\Finca Task\UI\obj\Debug\netcoreapp2.1\UI.TagHelpers.input.cache
+D:\C# Learning\Proper projects at home\FincaTaskCore\Finca Task\UI\obj\Debug\netcoreapp2.1\UI.TagHelpers.output.cache
+D:\C# Learning\Proper projects at home\FincaTaskCore\Finca Task\UI\obj\Debug\netcoreapp2.1\UI.RazorCoreGenerate.cache
+D:\C# Learning\Proper projects at home\FincaTaskCore\Finca Task\UI\obj\Debug\netcoreapp2.1\Razor\Views\Add\Add.g.cshtml.cs
+D:\C# Learning\Proper projects at home\FincaTaskCore\Finca Task\UI\obj\Debug\netcoreapp2.1\Razor\Views\Add\Success.g.cshtml.cs
+D:\C# Learning\Proper projects at home\FincaTaskCore\Finca Task\UI\obj\Debug\netcoreapp2.1\Razor\Views\Admin\ProductDetails.g.cshtml.cs
+D:\C# Learning\Proper projects at home\FincaTaskCore\Finca Task\UI\obj\Debug\netcoreapp2.1\Razor\Views\LogIn\AdminPage.g.cshtml.cs
+D:\C# Learning\Proper projects at home\FincaTaskCore\Finca Task\UI\obj\Debug\netcoreapp2.1\Razor\Views\LogIn\LogIn.g.cshtml.cs
+D:\C# Learning\Proper projects at home\FincaTaskCore\Finca Task\UI\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\C# Learning\Proper projects at home\FincaTaskCore\Finca Task\UI\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\C# Learning\Proper projects at home\FincaTaskCore\Finca Task\UI\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\C# Learning\Proper projects at home\FincaTaskCore\Finca Task\UI\obj\Debug\netcoreapp2.1\UI.RazorTargetAssemblyInfo.cache
+D:\C# Learning\Proper projects at home\FincaTaskCore\Finca Task\UI\obj\Debug\netcoreapp2.1\UI.RazorTargetAssemblyInfo.cs
+D:\C# Learning\Proper projects at home\FincaTaskCore\Finca Task\UI\obj\Debug\netcoreapp2.1\UI.Views.pdb
+D:\C# Learning\Proper projects at home\FincaTaskCore\Finca Task\UI\obj\Debug\netcoreapp2.1\UI.csproj.CopyComplete
+D:\C# Learning\Proper projects at home\FincaTaskCore\Finca Task\UI\obj\Debug\netcoreapp2.1\UI.dll
+D:\C# Learning\Proper projects at home\FincaTaskCore\Finca Task\UI\obj\Debug\netcoreapp2.1\UI.pdb

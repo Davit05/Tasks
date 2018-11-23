@@ -1,0 +1,12 @@
+D:\C# Learning\Proper projects at home\FincaTaskCore\DAL\BusinessLogic\bin\Debug\netcoreapp2.1\BusinessLogic.deps.json
+D:\C# Learning\Proper projects at home\FincaTaskCore\DAL\BusinessLogic\bin\Debug\netcoreapp2.1\BusinessLogic.dll
+D:\C# Learning\Proper projects at home\FincaTaskCore\DAL\BusinessLogic\bin\Debug\netcoreapp2.1\BusinessLogic.pdb
+D:\C# Learning\Proper projects at home\FincaTaskCore\DAL\BusinessLogic\bin\Debug\netcoreapp2.1\DAL.dll
+D:\C# Learning\Proper projects at home\FincaTaskCore\DAL\BusinessLogic\bin\Debug\netcoreapp2.1\DAL.pdb
+D:\C# Learning\Proper projects at home\FincaTaskCore\DAL\BusinessLogic\obj\Debug\netcoreapp2.1\BusinessLogic.csprojAssemblyReference.cache
+D:\C# Learning\Proper projects at home\FincaTaskCore\DAL\BusinessLogic\obj\Debug\netcoreapp2.1\BusinessLogic.csproj.CoreCompileInputs.cache
+D:\C# Learning\Proper projects at home\FincaTaskCore\DAL\BusinessLogic\obj\Debug\netcoreapp2.1\BusinessLogic.AssemblyInfoInputs.cache
+D:\C# Learning\Proper projects at home\FincaTaskCore\DAL\BusinessLogic\obj\Debug\netcoreapp2.1\BusinessLogic.AssemblyInfo.cs
+D:\C# Learning\Proper projects at home\FincaTaskCore\DAL\BusinessLogic\obj\Debug\netcoreapp2.1\BusinessLogic.csproj.CopyComplete
+D:\C# Learning\Proper projects at home\FincaTaskCore\DAL\BusinessLogic\obj\Debug\netcoreapp2.1\BusinessLogic.dll
+D:\C# Learning\Proper projects at home\FincaTaskCore\DAL\BusinessLogic\obj\Debug\netcoreapp2.1\BusinessLogic.pdb

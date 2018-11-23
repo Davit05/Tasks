@@ -1,0 +1,22 @@
+D:\C# Learning\Proper projects at home\FincaTaskCore\DAL\DAL\bin\Debug\netcoreapp2.1\DAL.deps.json
+D:\C# Learning\Proper projects at home\FincaTaskCore\DAL\DAL\bin\Debug\netcoreapp2.1\DAL.dll
+D:\C# Learning\Proper projects at home\FincaTaskCore\DAL\DAL\obj\Debug\netcoreapp2.1\DAL.csprojAssemblyReference.cache
+D:\C# Learning\Proper projects at home\FincaTaskCore\DAL\DAL\obj\Debug\netcoreapp2.1\DAL.csproj.CoreCompileInputs.cache
+D:\C# Learning\Proper projects at home\FincaTaskCore\DAL\DAL\obj\Debug\netcoreapp2.1\DAL.AssemblyInfoInputs.cache
+D:\C# Learning\Proper projects at home\FincaTaskCore\DAL\DAL\obj\Debug\netcoreapp2.1\DAL.AssemblyInfo.cs
+D:\C# Learning\Proper projects at home\FincaTaskCore\DAL\DAL\bin\Debug\netcoreapp2.1\DAL.runtimeconfig.json
+D:\C# Learning\Proper projects at home\FincaTaskCore\DAL\DAL\bin\Debug\netcoreapp2.1\DAL.runtimeconfig.dev.json
+D:\C# Learning\Proper projects at home\FincaTaskCore\DAL\DAL\bin\Debug\netcoreapp2.1\DAL.pdb
+D:\C# Learning\Proper projects at home\FincaTaskCore\DAL\DAL\obj\Debug\netcoreapp2.1\DAL.dll
+D:\C# Learning\Proper projects at home\FincaTaskCore\DAL\DAL\obj\Debug\netcoreapp2.1\DAL.pdb
+D:\C# Learning\Proper projects at home\FincaTaskCore\Finca Task\DAL\bin\Debug\netcoreapp2.1\DAL.deps.json
+D:\C# Learning\Proper projects at home\FincaTaskCore\Finca Task\DAL\bin\Debug\netcoreapp2.1\DAL.runtimeconfig.json
+D:\C# Learning\Proper projects at home\FincaTaskCore\Finca Task\DAL\bin\Debug\netcoreapp2.1\DAL.runtimeconfig.dev.json
+D:\C# Learning\Proper projects at home\FincaTaskCore\Finca Task\DAL\bin\Debug\netcoreapp2.1\DAL.dll
+D:\C# Learning\Proper projects at home\FincaTaskCore\Finca Task\DAL\bin\Debug\netcoreapp2.1\DAL.pdb
+D:\C# Learning\Proper projects at home\FincaTaskCore\Finca Task\DAL\obj\Debug\netcoreapp2.1\DAL.csprojAssemblyReference.cache
+D:\C# Learning\Proper projects at home\FincaTaskCore\Finca Task\DAL\obj\Debug\netcoreapp2.1\DAL.csproj.CoreCompileInputs.cache
+D:\C# Learning\Proper projects at home\FincaTaskCore\Finca Task\DAL\obj\Debug\netcoreapp2.1\DAL.AssemblyInfoInputs.cache
+D:\C# Learning\Proper projects at home\FincaTaskCore\Finca Task\DAL\obj\Debug\netcoreapp2.1\DAL.AssemblyInfo.cs
+D:\C# Learning\Proper projects at home\FincaTaskCore\Finca Task\DAL\obj\Debug\netcoreapp2.1\DAL.dll
+D:\C# Learning\Proper projects at home\FincaTaskCore\Finca Task\DAL\obj\Debug\netcoreapp2.1\DAL.pdb
